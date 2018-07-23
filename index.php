@@ -18,15 +18,15 @@ echo $km . "<br>";
 //3
 
 $string = "lol" . "<br>";
-$int = "10" . "<br>";
-$float = "1.5" . "<br>";
+$int = 10 . "<br>";
+$float = 1.5 . "<br>";
 $bool = true;
 echo $string . " " . $int . " " . $float . " " . $bool . "<br>";
 //4
 
 $nul = null;
 echo $nul;
-$nul = "20" . "<br>";
+$nul = 20 . "<br>";
 echo $nul;
 //5
 
